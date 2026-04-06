@@ -1,0 +1,28 @@
+C:\Progect\VSC\C#\Let`s go C#\bin\Debug\net10.0\C#.exe
+C:\Progect\VSC\C#\Let`s go C#\bin\Debug\net10.0\C#.deps.json
+C:\Progect\VSC\C#\Let`s go C#\bin\Debug\net10.0\C#.runtimeconfig.json
+C:\Progect\VSC\C#\Let`s go C#\bin\Debug\net10.0\C#.dll
+C:\Progect\VSC\C#\Let`s go C#\bin\Debug\net10.0\C#.pdb
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\C#.AssemblyInfoInputs.cache
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\C#.AssemblyInfo.cs
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\C#.csproj.CoreCompileInputs.cache
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\C#.dll
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\refint\C#.dll
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\C#.pdb
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\C#.genruntimeconfig.cache
+C:\Progect\VSC\C#\Let`s go C#\obj\Debug\net10.0\ref\C#.dll
+C:\Progect\VSC\C#\variablesC#\bin\Debug\net10.0\C#.exe
+C:\Progect\VSC\C#\variablesC#\bin\Debug\net10.0\C#.deps.json
+C:\Progect\VSC\C#\variablesC#\bin\Debug\net10.0\C#.runtimeconfig.json
+C:\Progect\VSC\C#\variablesC#\bin\Debug\net10.0\C#.dll
+C:\Progect\VSC\C#\variablesC#\bin\Debug\net10.0\C#.pdb
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\C#.AssemblyInfoInputs.cache
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\C#.AssemblyInfo.cs
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\C#.csproj.CoreCompileInputs.cache
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\C#.dll
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\refint\C#.dll
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\C#.pdb
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\C#.genruntimeconfig.cache
+C:\Progect\VSC\C#\variablesC#\obj\Debug\net10.0\ref\C#.dll
