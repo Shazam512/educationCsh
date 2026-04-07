@@ -1,0 +1,14 @@
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\03_classes_and_objects_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\03_classes_and_objects_C#.AssemblyInfoInputs.cache
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\03_classes_and_objects_C#.AssemblyInfo.cs
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\03_classes_and_objects_C#.csproj.CoreCompileInputs.cache
+C:\Progect\VSC\C#\03_classes_and_objects_C#\bin\Debug\net10.0\03_classes_and_objects_C#.exe
+C:\Progect\VSC\C#\03_classes_and_objects_C#\bin\Debug\net10.0\03_classes_and_objects_C#.deps.json
+C:\Progect\VSC\C#\03_classes_and_objects_C#\bin\Debug\net10.0\03_classes_and_objects_C#.runtimeconfig.json
+C:\Progect\VSC\C#\03_classes_and_objects_C#\bin\Debug\net10.0\03_classes_and_objects_C#.dll
+C:\Progect\VSC\C#\03_classes_and_objects_C#\bin\Debug\net10.0\03_classes_and_objects_C#.pdb
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\03_classes_and_objects_C#.dll
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\refint\03_classes_and_objects_C#.dll
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\03_classes_and_objects_C#.pdb
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\03_classes_and_objects_C#.genruntimeconfig.cache
+C:\Progect\VSC\C#\03_classes_and_objects_C#\obj\Debug\net10.0\ref\03_classes_and_objects_C#.dll
